@@ -1,0 +1,14 @@
+{
+  "name": "opencover-merge",
+  "version": "0.0.1",
+  "description": "Utility for merging open cover reports",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Skinner",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
